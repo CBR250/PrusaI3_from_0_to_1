@@ -1,3 +1,6 @@
 [submodule "Source_Code/Prusa_I3"]
 	path = Source_Code/Prusa_I3
 	url = https://github.com/Jumbo88888/prusa_i3.git
+[submodule "Online_Source/i3_Berlin"]
+	path = Online_Source/i3_Berlin
+	url = git@github.com:Jumbo88888/i3_Berlin.git
