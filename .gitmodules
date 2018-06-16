@@ -7,3 +7,6 @@
 [submodule "Output_files/Art_STL"]
 	path = Output_files/Art_STL
 	url = https://github.com/Jumbo88888/Art_STL.git
+[submodule "Software/arduino/arduino_lib"]
+	path = Software/arduino/arduino_lib
+	url = https://github.com/Jumbo88888/arduino_lib.git
