@@ -10,3 +10,6 @@
 [submodule "Software/arduino/arduino_lib"]
 	path = Software/arduino/arduino_lib
 	url = https://github.com/Jumbo88888/arduino_lib.git
+[submodule "Output_files/3D.Models.git"]
+	path = Output_files/3D.Models.git
+	url = https://github.com/Jumbo88888/3D.Models.git
