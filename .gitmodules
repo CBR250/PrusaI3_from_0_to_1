@@ -1,15 +1,15 @@
 [submodule "Source_Code/Prusa_I3"]
 	path = Source_Code/Prusa_I3
-	url = https://github.com/Jumbo88888/prusa_i3.git
+	url = https://github.com/CBR250/prusa_i3.git
 [submodule "Online_Source/i3_Berlin"]
 	path = Online_Source/i3_Berlin
-	url = git@github.com:Jumbo88888/i3_Berlin.git
+	url = git@github.com:CBR250/i3_Berlin.git
 [submodule "Output_files/Art_STL"]
 	path = Output_files/Art_STL
-	url = https://github.com/Jumbo88888/Art_STL.git
+	url = https://github.com/CBR250/Art_STL.git
 [submodule "Software/arduino/arduino_lib"]
 	path = Software/arduino/arduino_lib
-	url = https://github.com/Jumbo88888/arduino_lib.git
+	url = https://github.com/CBR250/arduino_lib.git
 [submodule "Output_files/3D.Models.git"]
 	path = Output_files/3D.Models.git
-	url = https://github.com/Jumbo88888/3D.Models.git
+	url = https://github.com/CBR250/3D.Models.git
