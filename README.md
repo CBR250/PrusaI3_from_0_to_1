@@ -14,6 +14,10 @@ git push<br />
 git submodule update --init (clone all submodule)<br />
 git submodule foreach git pull origin master (update all submodule)<br />
 
+### git del submodule
+git submodule deinit -f <path_to_submodule>
+git rm <path_to_submodule>
+git commit-m "Removed submodule "
 
 ### remove snipmate from submodule
 git rm Bundle/snipmate-snippets<br />
