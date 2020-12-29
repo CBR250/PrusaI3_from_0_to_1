@@ -13,3 +13,12 @@
 [submodule "Output_files/3D.Models.git"]
 	path = Output_files/3D.Models.git
 	url = https://github.com/CBR250/3D.Models.git
+[submodule "Source_Code/Source_Code/snipmate-snippets"]
+	path = Source_Code/Source_Code/snipmate-snippets
+	url = git@github.com:freeman2004/Marlin-1.1.8.git
+[submodule "Source_Code/snipmate-snippets"]
+	path = Source_Code/snipmate-snippets
+	url = git@github.com:freeman2004/Marlin-1.1.8.git
+[submodule "Source_Code/Marlin-1.1.8"]
+	path = Source_Code/Marlin-1.1.8
+	url = git@github.com:freeman2004/Marlin-1.1.8.git
