@@ -22,3 +22,6 @@
 [submodule "Source_Code/Marlin-1.1.8"]
 	path = Source_Code/Marlin-1.1.8
 	url = git@github.com:freeman2004/Marlin-1.1.8.git
+[submodule "Source_Code/prusa_i3"]
+       path = Source_Code/prusa_i3
+       url = git@github.com:CBR250/prusa_i3.git
